@@ -1,0 +1,11 @@
+python-dotenv
+flask-cors
+flask
+duffel-api 
+langchain 
+langchain-core 
+pydantic 
+openai 
+langchain_openai
+langchain-cli
+langsmith
